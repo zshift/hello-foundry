@@ -1,0 +1,21 @@
+{
+  "id": "hello-foundry",
+  "title": "Hello Foundry",
+  "description": "A simple Foundry VTT module to get started with.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Peter Faria"
+    }
+  ],
+  "esmodules": [
+    "index.js"
+  ],
+  "styles": [
+    "styles.css"
+  ]
+}
